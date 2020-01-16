@@ -1,6 +1,7 @@
 {
   name: "test",
   author: "testing",
+  lastChapter: 1,
   lists: [
     "https://wp.com/",
     "https://wp.com/"
